@@ -1,0 +1,157 @@
+/* https://coolors.co/582f0e-7f4f24-936639-a68a64-b6ad90-c2c5aa-a4ac86-656d4a-414833-333d29 color pallete*/
+
+a{
+  color:#333d29;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin-right: 20px;
+}
+a:hover{
+  color:#b6ad90 ;
+}
+.btn{
+  color:#b6ad90;
+  margin: auto;
+}
+
+body {
+  background-color: #c2c5aa;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #1b2221;
+}
+.bottom-cloud{
+  position: absolute;
+  left:350px;
+  bottom:300px;
+}
+.bottom-container { 
+  background-color: #656d4a;
+  padding: 50px 0 20px;
+}
+
+.coding-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.contact-me{
+   margin-top: 100px;
+   margin-bottom: 80px;
+}
+.contact-button{
+  background: #656d4a;
+  background-image: -webkit-linear-gradient(top, #656d4a, #414833);
+  background-image: -moz-linear-gradient(top, #656d4a, #414833);
+  background-image: -ms-linear-gradient(top, #656d4a, #414833);
+  background-image: -o-linear-gradient(top, #656d4a, #414833);
+  background-image: linear-gradient(to bottom, #656d4a, #414833);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 40px;
+}
+
+.contact-button:hover{
+  background: #576143;
+  background-image: -webkit-linear-gradient(top, #576143, #323d28);
+  background-image: -moz-linear-gradient(top, #576143, #323d28);
+  background-image: -ms-linear-gradient(top, #576143, #323d28);
+  background-image: -o-linear-gradient(top, #576143, #323d28);
+  background-image: linear-gradient(to bottom, #576143, #323d28);
+  text-decoration: none;
+}
+
+div{
+  background-color: #c2c5aa;
+}
+.flaticon-link{
+  color:#333d29;
+  margin-left: 10px;
+}
+
+#freepik {
+  background-color: #656d4a;
+  margin-top: 20px;
+}
+#copyright-name{
+  margin-top: 30px;
+  color: #b6ad90;
+  padding: 20px 0;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.gamer-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr {
+  border-style:dotted none none; 
+  width: 5%;
+  border-color: #b6ad90;
+  border-width: 10px;
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+h1 { 
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #333d29;
+  line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #414833;
+  font-weight: normal;
+  padding: 10px;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #656d4a;
+}
+.intro {
+  width: 30%;
+  margin:auto
+}
+
+.middle-container {
+  background-color: #c2c5aa;
+  line-height: 2;
+  
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:100px;
+}
+/* parent relative to top cloud and bottom cloud so we can change it's position around it */
+.top-container{
+  background-color: #c2c5aa;
+  position: relative;
+  padding: 100px;
+}
+p{
+  line-height: 2;
+}
+
+.profile{
+  padding: 100px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 175px auto;
+  text-align: left;
+  line-height: 2;
+}
